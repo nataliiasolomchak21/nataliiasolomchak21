@@ -12,6 +12,10 @@ Here are some technologies and tools I enjoy working with:
 
 ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-orange) ![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) ![Static Badge](https://img.shields.io/badge/Django-grey) ![Static Badge](https://img.shields.io/badge/jQuery-plum) ![Static Badge](https://img.shields.io/badge/Flask-olivegreen) ![Static Badge](https://img.shields.io/badge/Bootstrap-brown) ![Static Badge](https://img.shields.io/badge/Tailwind-navy) ![Static Badge](https://img.shields.io/badge/Figma-pink)
 
+### 🌐 Top Languages:
+
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliiasolomchak21&layout=compact)
+
 ## 🌱 Current Projects
 
 I'm currently working on:
