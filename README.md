@@ -1,16 +1,20 @@
-# 👋 Hello, my name is Nataliia Solomchak
+# 👋 Hi, welcome to my Github!
 
 ## 🚀 About Me
 
-I'm a Full Stack Software Developer passionate about [Your Interests]. I love [Any specific technologies or tools you enjoy working with]. Currently, I [What you are currently doing or learning].
+I'm a Full Stack Software Developer passionate about automation, ecommerce, SaaS creation, and all things tech-related. These areas fascinate me, and I'm constantly exploring innovative solutions and advancements within the tech industry. 
 
 ## 🔧 Technologies & Tools
 
 Here are some technologies and tools I enjoy working with:
 
-- **Languages:** [List of programming languages you're familiar with]
-- **Frameworks:** [List of frameworks or libraries you frequently use]
-- **Tools:** [Any specific development tools you prefer]
+![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-orange) ![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) ![Static Badge](https://img.shields.io/badge/Django-grey) ![Static Badge](https://img.shields.io/badge/jQuery-plum) ![Static Badge](https://img.shields.io/badge/Flask-olivegreen) ![Static Badge](https://img.shields.io/badge/Bootstrap-brown) ![Static Badge](https://img.shields.io/badge/Tailwind-navy) ![Static Badge](https://img.shields.io/badge/Figma-pink)
+
+
+
+
+
+
 
 ## 🌱 Current Projects
 
