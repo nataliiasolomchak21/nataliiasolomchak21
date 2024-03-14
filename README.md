@@ -18,7 +18,7 @@
 
 **Testing**: `Jest` `Postman`
 
-**Others**: `Agile` `Figma`, `Heroku`
+**Others**: `Agile` `Figma` `Heroku`
  
 ### 🌐 Top Languages:
 
