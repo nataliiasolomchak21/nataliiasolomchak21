@@ -8,10 +8,18 @@
 
 ## 🔧 Technologies & Tools
 
-Here are some technologies and tools I enjoy working with:
+**Frontend Development**: `HTML` `CSS` `JavaScript` `React` `Next.js` `jQuery` `Bootstrap` `Tailwind`
 
-![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-orange) ![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) ![Static Badge](https://img.shields.io/badge/Django-grey) ![Static Badge](https://img.shields.io/badge/jQuery-plum) ![Static Badge](https://img.shields.io/badge/Flask-olivegreen) ![Static Badge](https://img.shields.io/badge/Bootstrap-brown) ![Static Badge](https://img.shields.io/badge/Tailwind-navy) ![Static Badge](https://img.shields.io/badge/Figma-pink)
+**Backend Development**: `Python` `Node.js` `Express.js` `MongoDB` `Django` `Flask`
 
+**Databases**: `PostgreSQL` `MongoDB`
+
+**Version Control**: `Git` `GitHub`
+
+**Testing**: `Jest` `Postman`
+
+**Others**: `Agile` `Figma`, `Heroku`
+ 
 ### 🌐 Top Languages:
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliiasolomchak21&layout=compact)
@@ -35,5 +43,3 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](<https://github-readme-stats.vercel.app/api?username=nataliiasolomchak21&show_icons=true&hide_title=true&count_private=true&hide=issues>)
-
-<!-- Feel free to add any additional sections or customize the content based on your preferences and the information you want to share. -->
