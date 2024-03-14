@@ -10,7 +10,7 @@
 
 **Frontend Development**: `HTML` `CSS` `JavaScript` `React` `Next.js` `jQuery` `Bootstrap` `Tailwind`
 
-**Backend Development**: `Python` `Node.js` `Express.js` `MongoDB` `Django` `Flask`
+**Backend Development**: `Python` `Node.js` `Express.js` `Django` `Flask`
 
 **Databases**: `PostgreSQL` `MongoDB`
 
