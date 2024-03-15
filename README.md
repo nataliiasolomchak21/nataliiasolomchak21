@@ -8,29 +8,17 @@
 
 ## 🔧 Technologies & Tools
 
-### Frontend Development
-
-![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-orange)  ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/jQuery-plum) ![Static Badge](https://img.shields.io/badge/Bootstrap-brown) ![Static Badge](https://img.shields.io/badge/Tailwind-navy) 
-
-### Backend Development
-
-![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Django-grey) ![Static Badge](https://img.shields.io/badge/Flask-olivegreen) ![Static Badge](https://img.shields.io/badge/Node.js-white) ![Static Badge](https://img.shields.io/badge/Express.js-grey)
-
-### Databases
-
-![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) ![Static Badge](https://img.shields.io/badge/MongoDB-olive) 
-
-### Version Control
-
-![Static Badge](https://img.shields.io/badge/Git-tomato) ![Static Badge](https://img.shields.io/badge/GitHub-darkviolet) 
-
-### Testing
-
-![Static Badge](https://img.shields.io/badge/Jest-red) ![Static Badge](https://img.shields.io/badge/Postman-brown) 
-
-### Others
-
-![Static Badge](https://img.shields.io/badge/Figma-pink) ![Static Badge](https://img.shields.io/badge/Agile-navy) ![Static Badge](https://img.shields.io/badge/Heroku-orchid) 
+| Frontend Development | Backend Development | Databases  | Version Control | Testing | Others  |
+|----------------------|---------------------|------------|-----------------|---------|---------|
+| ![Static Badge](https://img.shields.io/badge/HTML-red) | ![Static Badge](https://img.shields.io/badge/Python-darkgreen) | ![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) | ![Static Badge](https://img.shields.io/badge/Git-tomato) | ![Static Badge](https://img.shields.io/badge/Jest-red) | ![Static Badge](https://img.shields.io/badge/Figma-pink) |
+| ![Static Badge](https://img.shields.io/badge/CSS-blue) | ![Static Badge](https://img.shields.io/badge/Django-grey) | ![Static Badge](https://img.shields.io/badge/MongoDB-olive) | ![Static Badge](https://img.shields.io/badge/GitHub-darkviolet) | ![Static Badge](https://img.shields.io/badge/Postman-brown) | ![Static Badge](https://img.shields.io/badge/Agile-navy) |
+| ![Static Badge](https://img.shields.io/badge/JavaScript-orange) | ![Static Badge](https://img.shields.io/badge/Flask-olivegreen) | | | | ![Static Badge](https://img.shields.io/badge/Heroku-orchid) |
+| ![Static Badge](https://img.shields.io/badge/React-blue) | ![Static Badge](https://img.shields.io/badge/Node.js-white) | | | | |
+| ![Static Badge](https://img.shields.io/badge/NextJS-black) | ![Static Badge](https://img.shields.io/badge/Express.js-grey) | | | | |
+| ![Static Badge](https://img.shields.io/badge/jQuery-plum) | | | | | |
+| ![Static Badge](https://img.shields.io/badge/Bootstrap-brown) | | | | | |
+| ![Static Badge](https://img.shields.io/badge/Tailwind-navy) | | | | | |
+ 
  
 ## 🌐 Top Languages:
 
