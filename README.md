@@ -6,18 +6,18 @@
 
 👩‍💻 Armed with a qualification in Full Stack Software Development from the Code Institute, my journey has honed my ability to sculpt and maintain software products, meticulously ensuring their compliance with web standards, SEO best practices, and accessibility guidelines. I'm passionate about automation, ecommerce, SaaS, and all things tech-related. These areas fascinate me, and I'm constantly exploring innovative solutions and advancements within the tech industry. 
 
-## 🔧 Technologies & Tools
+## 🔧 Toolbox
 
-| Frontend Development | Backend Development | Databases  | Version Control | Testing | Others  |
-|----------------------|---------------------|------------|-----------------|---------|---------|
-| ![Static Badge](https://img.shields.io/badge/HTML-red) | ![Static Badge](https://img.shields.io/badge/Python-darkgreen) | ![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) | ![Static Badge](https://img.shields.io/badge/Git-tomato) | ![Static Badge](https://img.shields.io/badge/Jest-red) | ![Static Badge](https://img.shields.io/badge/Figma-pink) |
-| ![Static Badge](https://img.shields.io/badge/CSS-blue) | ![Static Badge](https://img.shields.io/badge/Django-grey) | ![Static Badge](https://img.shields.io/badge/MongoDB-olive) | ![Static Badge](https://img.shields.io/badge/GitHub-darkviolet) | ![Static Badge](https://img.shields.io/badge/Postman-brown) | ![Static Badge](https://img.shields.io/badge/Agile-navy) |
-| ![Static Badge](https://img.shields.io/badge/JavaScript-orange) | ![Static Badge](https://img.shields.io/badge/Flask-olivegreen) | | | | ![Static Badge](https://img.shields.io/badge/Heroku-orchid) |
-| ![Static Badge](https://img.shields.io/badge/React-blue) | ![Static Badge](https://img.shields.io/badge/Node.js-white) | | | | |
-| ![Static Badge](https://img.shields.io/badge/NextJS-black) | ![Static Badge](https://img.shields.io/badge/Express.js-grey) | | | | |
-| ![Static Badge](https://img.shields.io/badge/jQuery-plum) | | | | | |
-| ![Static Badge](https://img.shields.io/badge/Bootstrap-brown) | | | | | |
-| ![Static Badge](https://img.shields.io/badge/Tailwind-navy) | | | | | |
+|              | Technologies & Tools                                                                                                |
+|-----------------------|---------------------------------------------------------------------------------------------------------------|
+| Frontend Development | ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-orange) ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/jQuery-plum) ![Static Badge](https://img.shields.io/badge/Bootstrap-brown) ![Static Badge](https://img.shields.io/badge/Tailwind-navy) |
+| Backend Development  | ![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Django-grey) ![Static Badge](https://img.shields.io/badge/Flask-olivegreen) ![Static Badge](https://img.shields.io/badge/Node.js-white) ![Static Badge](https://img.shields.io/badge/Express.js-grey) |
+| Databases            | ![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) ![Static Badge](https://img.shields.io/badge/MongoDB-olive)                                                  |
+| Version Control      | ![Static Badge](https://img.shields.io/badge/Git-tomato) ![Static Badge](https://img.shields.io/badge/GitHub-darkviolet)                                                    |
+| Testing              | ![Static Badge](https://img.shields.io/badge/Jest-red) ![Static Badge](https://img.shields.io/badge/Postman-brown)                                                       |
+| Others               | ![Static Badge](https://img.shields.io/badge/Figma-pink) ![Static Badge](https://img.shields.io/badge/Agile-navy) ![Static Badge](https://img.shields.io/badge/Heroku-orchid)                                                  |
+
+
  
  
 ## 🌐 Top Languages:
