@@ -8,19 +8,31 @@
 
 ## 🔧 Technologies & Tools
 
-**Frontend Development**: `HTML` `CSS` `JavaScript` `React` `Next.js` `jQuery` `Bootstrap` `Tailwind`
+### Frontend Development
 
-**Backend Development**: `Python` `Node.js` `Express.js` `Django` `Flask`
+![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-orange)  ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/jQuery-plum) ![Static Badge](https://img.shields.io/badge/Bootstrap-brown) ![Static Badge](https://img.shields.io/badge/Tailwind-navy) 
 
-**Databases**: `PostgreSQL` `MongoDB`
+### Backend Development
 
-**Version Control**: `Git` `GitHub`
+![Static Badge](https://img.shields.io/badge/Python-darkgreen) ![Static Badge](https://img.shields.io/badge/Django-grey) ![Static Badge](https://img.shields.io/badge/Flask-olivegreen) ![Static Badge](https://img.shields.io/badge/Node.js-white) ![Static Badge](https://img.shields.io/badge/Express.js-grey)
 
-**Testing**: `Jest` `Postman`
+### Databases
 
-**Others**: `Agile` `Figma` `Heroku`
+![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) ![Static Badge](https://img.shields.io/badge/MongoDB-olive) 
+
+### Version Control
+
+![Static Badge](https://img.shields.io/badge/Git-tomato) ![Static Badge](https://img.shields.io/badge/GitHub-darkviolet) 
+
+### Testing
+
+![Static Badge](https://img.shields.io/badge/Jest-red) ![Static Badge](https://img.shields.io/badge/Postman-brown) 
+
+### Others
+
+![Static Badge](https://img.shields.io/badge/Figma-pink) ![Static Badge](https://img.shields.io/badge/Agile-navy) ![Static Badge](https://img.shields.io/badge/Heroku-orchid) 
  
-### 🌐 Top Languages:
+## 🌐 Top Languages:
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliiasolomchak21&layout=compact)
 
