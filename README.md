@@ -15,7 +15,7 @@
 | Databases            | ![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) ![Static Badge](https://img.shields.io/badge/MongoDB-olive)                                                  |
 | Version Control      | ![Static Badge](https://img.shields.io/badge/Git-tomato) ![Static Badge](https://img.shields.io/badge/GitHub-darkviolet)                                                    |
 | Testing              | ![Static Badge](https://img.shields.io/badge/Jest-red) ![Static Badge](https://img.shields.io/badge/Postman-brown)                                                       |
-| Others               | ![Static Badge](https://img.shields.io/badge/Figma-pink) ![Static Badge](https://img.shields.io/badge/Agile-navy) ![Static Badge](https://img.shields.io/badge/Heroku-orchid)                                                  |
+| Others               | ![Static Badge](https://img.shields.io/badge/Figma-pink) ![Static Badge](https://img.shields.io/badge/Agile-navy) ![Static Badge](https://img.shields.io/badge/Heroku-orchid) ![Static Badge](https://img.shields.io/badge/Vercel-black)                                                  |
 
 
  
