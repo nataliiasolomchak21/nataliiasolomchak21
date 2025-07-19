@@ -17,7 +17,6 @@
 
 - **GitHub:** https://github.com/nataliiasolomchak21
 - **LinkedIn:** https://www.linkedin.com/in/nataliia-solomchak-software-developer/
-- **Email:** natalia2001727@gmail.com
 
 ## 🤝 Open to Collaboration
 
